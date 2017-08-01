@@ -1,0 +1,18 @@
+*{
+  background-color: black;
+  font-family: Verdana;
+  text-align: center;
+}
+
+#discover{
+  font-size: 50px;
+  color: white;
+  text-align: center;
+  font-weight: normal;
+}
+
+#link{
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
